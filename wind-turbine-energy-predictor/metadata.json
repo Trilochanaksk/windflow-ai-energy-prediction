@@ -1,0 +1,5 @@
+{
+  "name": "Wind Turbine Energy Predictor",
+  "description": "A next-generation approach to renewable energy management using weather-based predictions for wind turbine output.",
+  "requestFramePermissions": ["geolocation"]
+}
