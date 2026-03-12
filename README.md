@@ -36,13 +36,13 @@ The system integrates **machine learning models, real-time weather data, and an 
 
 ## 🌬️ WindFlow AI Interface
 
-![WindFlow Dashboard](Screenshot 2026-03-12 075326.png)
+![WindFlow Dashboard](/)
 
 ---
 
 ## 📊 Power Forecast Visualization
 
-![Power Forecast](Screenshot 2026-03-12 075340.png)
+![Power Forecast](/)
 
 ---
 
